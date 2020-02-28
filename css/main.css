@@ -1,0 +1,154 @@
+/* you will add css rules for element selectors and IDs */
+
+/* you may add to or change the body rule */
+
+body {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    color: #fff;
+    background: #000;
+  }
+
+article {
+  display: flex;
+}
+
+header {
+  padding: .7rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+  margin: 0;
+}
+
+nav ul li {
+  font-size: 1.5rem;
+  margin: 0;
+  margin-left: 1rem;
+  padding: .6rem;
+}
+
+img {
+    max-width: 100%;
+}
+
+section {
+    max-width: 35rem;
+}
+
+footer {
+  text-align: center;
+}
+
+#cougar {
+  background-color: #B26219;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+}
+
+#lion {
+  background-color: #FFD5AE;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+}
+
+#lion .photo {
+  color: #000;
+}
+
+#tiger {
+  background-color: #FFBD82;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+}
+
+#tiger .photo {
+  color: #000;
+}
+
+.text {
+  color: #000;
+  background-color: #fff;
+  max-width: 31rem;
+  padding: 1rem 2rem;
+}
+
+.text h2 {
+  text-align: center;
+}
+
+.lionbutton {
+  text-align: center;
+  color: #000;
+  background-color: #fff;
+  padding: .5rem 1rem;
+  border-radius: 2rem;
+  border: solid #000;
+}
+
+.liontext {
+  display: none;
+  color: #000;
+  background-color: #fff;
+  max-width: 31rem;
+  padding: 1rem 2rem;
+}
+
+.liontext h2, .tigertext h2 {
+  text-align: center;
+}
+
+.tigertext {
+  color: #000;
+  background-color: #fff;
+  max-width: 31rem;
+  padding: 1rem 2rem;
+}
+
+.tigertexttwo, .tigerbuttontwo, .tigertextthree, .returnbutton {
+  display: none;
+}
+
+.tigerbuttonone, .tigerbuttontwo, .returnbutton {
+  text-align: center;
+}
+
+/* ----- SUGGESTED COLORS -----
+    - ARTICLES
+    B26219 cinnamon
+    FFD5AE pale peach
+    FFBD82 peach
+    - LINKS
+    379CB2 medium blue
+    82E8FF light blue
+
+   ----- NEUTRAL COLORS you may use also -----
+   000 black
+   333 charcoal
+   666 dark medium gray
+   999 light medium gray
+   ccc pale gray
+   fff white
+*/
+
+
+/* --- link pseudo classes --- */
+/* --- you may ADD other link pseudo classes for
+        specific articles or sections to improve CONTRAST --- */
+
+a {
+    color: #379CB2;
+    text-decoration: none;
+}
+a:hover {
+    color: #82E8FF;
+}

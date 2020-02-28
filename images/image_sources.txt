@@ -1,0 +1,21 @@
+Image sources
+
+COUGAR
+https://commons.wikimedia.org/wiki/File:Cougar_25.jpg
+By Greg Hume [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], from Wikimedia Commons
+By Greg Hume [<a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>], <a href="https://commons.wikimedia.org/wiki/File:Cougar_25.jpg">from Wikimedia Commons</a>
+A captive cougar at the Cincinnati Zoo.
+
+LION
+https://commons.wikimedia.org/wiki/File:Lion_waiting_in_Namibia.jpg
+By Kevin Pluck (Flickr: The King.) [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons
+By Kevin Pluck (Flickr: The King.) [<a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>], <a href="https://commons.wikimedia.org/wiki/File:Lion_waiting_in_Namibia.jpg">via Wikimedia Commons</a>
+A male lion from the Okinjima AfriCat foundation.
+
+TIGER
+https://commons.wikimedia.org/wiki/File:Panthera_tigris_sumatran_subspecies.jpg
+Monka Betley [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/)], via Wikimedia Commons
+Monka Betley [<a href="http://www.gnu.org/copyleft/fdl.html">GFDL</a> or <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA-3.0</a>], <a href="https://commons.wikimedia.org/wiki/File:Panthera_tigris_sumatran_subspecies.jpg">via Wikimedia Commons</a>
+Sumatran tiger.
+
+
