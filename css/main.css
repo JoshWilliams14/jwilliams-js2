@@ -12,6 +12,9 @@ body {
 
 article {
   display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 2rem;
 }
 
 header {
@@ -48,16 +51,10 @@ footer {
 
 #cougar {
   background-color: #B26219;
-  flex-direction: column;
-  align-items: center;
-  padding: 2rem;
 }
 
 #lion {
   background-color: #FFD5AE;
-  flex-direction: column;
-  align-items: center;
-  padding: 2rem;
 }
 
 #lion .photo {
@@ -66,9 +63,6 @@ footer {
 
 #tiger {
   background-color: #FFBD82;
-  flex-direction: column;
-  align-items: center;
-  padding: 2rem;
 }
 
 #tiger .photo {
@@ -122,33 +116,20 @@ footer {
   text-align: center;
 }
 
-/* ----- SUGGESTED COLORS -----
-    - ARTICLES
-    B26219 cinnamon
-    FFD5AE pale peach
-    FFBD82 peach
-    - LINKS
-    379CB2 medium blue
-    82E8FF light blue
-
-   ----- NEUTRAL COLORS you may use also -----
-   000 black
-   333 charcoal
-   666 dark medium gray
-   999 light medium gray
-   ccc pale gray
-   fff white
-*/
-
-
-/* --- link pseudo classes --- */
-/* --- you may ADD other link pseudo classes for
-        specific articles or sections to improve CONTRAST --- */
-
 a {
     color: #379CB2;
     text-decoration: none;
 }
 a:hover {
     color: #82E8FF;
+}
+
+/* Media Queries */
+
+@media screen and (max-width: 550px) {
+
+  article {
+    flex-grow: 1;
+  }
+
 }
