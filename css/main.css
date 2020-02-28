@@ -123,13 +123,3 @@ a {
 a:hover {
     color: #82E8FF;
 }
-
-/* Media Queries */
-
-@media screen and (max-width: 550px) {
-
-  article {
-    flex-grow: 1;
-  }
-
-}
